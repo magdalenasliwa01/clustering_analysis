@@ -1,4 +1,4 @@
-# Clustering analysis
+# Clustering analysis - marketing customer segmentation
 
 The clustering analysis relates to direct marketing activities run by a Portuguese bank and it aims to cluster customers based on their age, job, marital status, and education level. In marketing, customer segmentation is based on analysing customer details and finding patterns based on the clustering analysis. 
  
